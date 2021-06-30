@@ -8,7 +8,7 @@ dico_km[veh1] = int(input("Entrez les km du véhicule_1 :\n"))
 
 dico_km[veh2] = int(input("Entrez les km du véhicule_2 :\n"))
 
-dico_km[veh3] = int(input("Entrez les km du véhicule_ 3 :\n"))
+dico_km[veh3] = int(input("Entrez les km du véhicule_3 :\n"))
 
 
 print(dico_km)
